@@ -7,3 +7,9 @@
 ## Lab Information
 Academic Year: 2026/2027
 Semester : First Semester
+This repository demonstrates the basic Git workflow:
+cloning a repository
+editing files
+adding changes
+committing changes
+pushing changes to Github
