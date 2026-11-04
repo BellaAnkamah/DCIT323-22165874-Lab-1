@@ -3,3 +3,7 @@
  Course: DCIT323 - Multimedia and Web Design
 
  This Respository was created for DCIT323 Lab-1
+
+## Lab Information
+Academic Year: 2026/2027
+Semester : First Semester
